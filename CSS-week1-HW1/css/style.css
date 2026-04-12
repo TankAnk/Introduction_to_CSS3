@@ -5,7 +5,7 @@ body{
 
 header
 {
-	background-color: #d3d3d3;
+	background-color: #f0f0f0;
 }
 
 nav, footer
@@ -41,7 +41,7 @@ h1
 {
 	text-align: center;
 	font-family: 'Lucida Console', 'Courier New','Verdana', 'Georgia', 'Palatino', 'Garamond', 'Baskerville', serif;
-	color: #03a96e;
+	color: #2722ff;
 }
 
 p
